@@ -1,5 +1,5 @@
-# Demo session of Git ----- add 4
+# Demo session of Git
 
-Modified 2 --- add 5
+Modified 2
 
-Modified 3 10:15am --- add 6
+Modified 3 10:15am
